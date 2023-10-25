@@ -47,7 +47,7 @@ contract DegenToken is ERC20, Ownable {
 
 
     /*
-        The functions below consists minting,, transferring,
+        The functions below consists minting, transferring,
         redeeming, checking balance, and burning of tokens
     */
 
